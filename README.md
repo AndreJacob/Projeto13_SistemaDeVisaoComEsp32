@@ -1,7 +1,9 @@
 # Projeto12_SystemVisionEsp32
 Sistema de Visão com Esp32
 links para ver pronto: 
+
 https://www.instagram.com/p/DCIRroNAB-u/
+
 https://www.youtube.com/shorts/6jKbiLAcVhY
 
 Utilizando:
